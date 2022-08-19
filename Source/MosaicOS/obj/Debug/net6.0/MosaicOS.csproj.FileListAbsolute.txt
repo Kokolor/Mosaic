@@ -1,0 +1,11 @@
+/home/kokolor/Dev/OSDev/Mosaic/bin/net6.0/MosaicOS.deps.json
+/home/kokolor/Dev/OSDev/Mosaic/bin/net6.0/MosaicOS.runtimeconfig.json
+/home/kokolor/Dev/OSDev/Mosaic/bin/net6.0/MosaicOS.dll
+/home/kokolor/Dev/OSDev/Mosaic/bin/net6.0/ref/MosaicOS.dll
+/home/kokolor/Dev/OSDev/Mosaic/bin/net6.0/MosaicOS.pdb
+/home/kokolor/Dev/OSDev/Mosaic/Source/MosaicOS/obj/Debug/net6.0/MosaicOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/kokolor/Dev/OSDev/Mosaic/Source/MosaicOS/obj/Debug/net6.0/MosaicOS.csproj.CoreCompileInputs.cache
+/home/kokolor/Dev/OSDev/Mosaic/Source/MosaicOS/obj/Debug/net6.0/MosaicOS.dll
+/home/kokolor/Dev/OSDev/Mosaic/Source/MosaicOS/obj/Debug/net6.0/ref/MosaicOS.dll
+/home/kokolor/Dev/OSDev/Mosaic/Source/MosaicOS/obj/Debug/net6.0/MosaicOS.pdb
+/home/kokolor/Dev/OSDev/Mosaic/Source/MosaicOS/obj/Debug/net6.0/MosaicOS.genruntimeconfig.cache

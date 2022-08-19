@@ -1,0 +1,11 @@
+/home/kokolor/CS2ASM/bin/net6.0/ConsoleApp1.deps.json
+/home/kokolor/CS2ASM/bin/net6.0/ConsoleApp1.runtimeconfig.json
+/home/kokolor/CS2ASM/bin/net6.0/ConsoleApp1.dll
+/home/kokolor/CS2ASM/bin/net6.0/ref/ConsoleApp1.dll
+/home/kokolor/CS2ASM/bin/net6.0/ConsoleApp1.pdb
+/home/kokolor/CS2ASM/Playground/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kokolor/CS2ASM/Playground/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/kokolor/CS2ASM/Playground/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/home/kokolor/CS2ASM/Playground/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
+/home/kokolor/CS2ASM/Playground/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/home/kokolor/CS2ASM/Playground/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
