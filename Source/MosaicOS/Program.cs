@@ -15,27 +15,22 @@ namespace MosaicOS
             Display.Initialize();
             Mouse.Initialize();
 
-            var Window1 = new Window("Window1", 50, 50, 250, 190);
+            var Window1 = new Window("This is window", 125, 125, 450, 350);
             Window1.Opened = true;
-
-            WindowManager.ActiveWindow = Window1;
+            WindowManager.ActiveWindow = (Window1);
             WindowManager.Windows.Add(Window1);
 
-            var Window2 = new Window("Window2", 450, 450, 420, 325);
-            Window2.Opened = true;
+            var Button1 = new Button("Click", 145, 145, 125, 18);
 
-            WindowManager.ActiveWindow = Window2;
-            WindowManager.Windows.Add(Window2);
-
-            for (;;)
+            while(true)
             {
                 Display.Clear(0);
                 Display.DrawText("FPS:", 10, 10, 0xFFFFFFFF);
                 Display.DrawText(((ulong)FPSMeter.FPS).ToString(), 42, 10, 0xFFFFFFFF);
                 Window1.Draw();
                 Window1.Update();
-                Window2.Draw();
-                Window2.Update();
+                Button1.Draw();
+                Button1.Update();
                 Mouse.Draw();
                 Display.Update();
                 FPSMeter.Update();
